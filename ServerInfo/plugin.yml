@@ -1,0 +1,13 @@
+name: ServerInfo
+main: me.Coderforlife.InfoMe.InfoMe
+version: 1.0.0
+
+commands:
+    info:
+        description: Main Command for ServerInfo
+        usage: /<command>
+permissons:
+    serverinfo.server:
+        default: op
+    serverinfo.ram:
+        default: op

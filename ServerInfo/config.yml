@@ -1,0 +1,20 @@
+# Server Info Config
+ServerInfo:
+  BukkitVersion: true
+  ServerIP: true
+  ServerPort: true
+  BannedPlayers: true
+  MaxPlayers: true
+  SpawnRadius: true
+  OPS: true
+  ShutDownMessage: true
+  ConnectionThrottle: true
+  ServerMessagener: true
+  ServerMOTD: true
+  ViewDisance: true
+  WorldType: true
+  AllowEnd: true
+  AllowNether: true
+  AllowFlight: true
+  GenerateStructures: true
+  HelpMap: true
